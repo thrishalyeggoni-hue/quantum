@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Echo: The City That Forgot",
+  "description": "A third-person story adventure and quantum computing educational game exploring qubits, superposition, phase, unitary gates, and measurement in the floating city of Aster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
